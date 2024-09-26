@@ -40,3 +40,7 @@ variable "PUBLIC_KEY" {
 variable "PRIVATE_KEY" {
   default = "terra-key-3"
 }
+
+variable "MYIP" {
+  default = "175.157.13.0/32"
+}
